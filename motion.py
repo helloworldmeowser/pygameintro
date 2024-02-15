@@ -1,3 +1,4 @@
+#background and ground current progress
 import pygame
 from sys import exit
 #this line above is connect to line 18 exit() to make while True stop causing program error
